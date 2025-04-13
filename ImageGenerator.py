@@ -3,7 +3,7 @@ import time
 from together import Together
 
 # Initialize the Together client with your API key
-client = Together(api_key="72d44deceac5d1158f9a08a5773fcb873e1dbf6e3b2fc12272ea96232180beea")
+client = Together(api_key="")
 
 # List of 50 prompts for cartoon-style human faces with diverse demographics
 prompts = [
